@@ -2,8 +2,7 @@
 
 A modern and responsive landing page showcasing the vision of a future Bangladesh — focused on innovation, sustainability, and digital transformation.
 
-## 🚀 Live Preview
-> 
+## 🚀 Live Preview  https://israt-tarifa.github.io/Bangladesh-2.0/
 
 ---
 
@@ -24,6 +23,7 @@ A modern and responsive landing page showcasing the vision of a future Banglades
 - HTML5  
 - CSS3  
 
----
+```markdown
+![Homepage](assets/hero.png)
 
-## 📂 Project Structure
+
