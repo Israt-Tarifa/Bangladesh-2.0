@@ -1,4 +1,4 @@
-# 🇧🇩 Bangladesh 2.0 Landing Page
+# Bangladesh 2.0 Landing Page
 
 A modern and responsive landing page showcasing the vision of a future Bangladesh — focused on innovation, sustainability, and digital transformation.
 
@@ -24,6 +24,7 @@ A modern and responsive landing page showcasing the vision of a future Banglades
 - CSS3  
 
 ```markdown
-![Homepage](assets/hero.png)
+![Homepage](assets/homepage.png)
+
 
 
